@@ -31,5 +31,3 @@ Professionals in fraud detection can leverage domain expertise to design more so
 - Written inline in a single notebook for **immediate readability**.  
 - No pipelines or modularization to keep the workflow easy to follow, especially for learners or reviewers.  
 - All steps, from data cleaning to model evaluation, are clearly documented.  
-
-> **Tip:** To run efficiently, a **T4 GPU or higher** is recommended for faster model training and large-scale data processing.
